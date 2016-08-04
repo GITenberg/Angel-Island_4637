@@ -1,0 +1,37 @@
+_repo: Angel-Island_4637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gillmore, Inez Haynes
+    aliases:
+    - Irwin, Inez Haynes
+    - Haynes, Inez
+    birthdate: 1873
+    deathdate: 1970
+    gutenberg_agent_id: '1169'
+    url: http://www.gutenberg.org/2009/agents/1169
+description: "Angel Island is a science fiction/fantasy novel by American feminist\
+  \ author, journalist and suffragette Inez Haynes Irwin, writing under the name Inez\
+  \ Haynes Gillmore. It was originally published by Henry Holt in January 1914. The\
+  \ novel is about a group of men shipwrecked on an island occupied by winged-women.\n\
+  Angel Island was reprinted in the February 1949 issue of Famous Fantastic Mysteries,\
+  \ and again in 1978 by Arno Press. In 1988 it was republished by Plume as a \"classic\
+  \ of early feminist literature\" with an introductory essay by science fiction and\
+  \ fantasy author Ursula K. Le Guin.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4637'
+  wikidata: Q4762193
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: Angel Island
+url: http://www.gutenberg.org/ebooks/4637
+wikipedia:
+- https://en.wikipedia.org/wiki/Angel_Island_(novel)
