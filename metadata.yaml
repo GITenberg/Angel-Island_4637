@@ -1,5 +1,8 @@
 _repo: Angel-Island_4637
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gillmore, Inez Haynes
@@ -18,6 +21,8 @@ description: "Angel Island is a science fiction/fantasy novel by American femini
   \ and again in 1978 by Arno Press. In 1988 it was republished by Plume as a \"classic\
   \ of early feminist literature\" with an introductory essay by science fiction and\
   \ fantasy author Ursula K. Le Guin.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4637#Angel-Island
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
